@@ -1,10 +1,6 @@
 # 🏄‍♂️ B1x
 
 
-
-<p align="center">
-  <img src="./binary.gif" width="400" alt="GIF animado de B1x">
-</p>
 🧰 Languages and Tools
 
 <p align="left">
@@ -24,3 +20,6 @@
 </p>
 <br />
 
+<p align="center">
+  <img src="./binary.gif" width="400" alt="GIF animado de B1x">
+</p>
