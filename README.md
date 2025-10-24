@@ -21,5 +21,5 @@
 <br />
 
 <p align="center">
-  <img src="./binary.gif" width="400" alt="GIF animado de B1x">
+  <img src="./lock.gif" width="400" alt="GIF animado de B1x">
 </p>
