@@ -5,7 +5,7 @@
 <p align="center">
   <img src="./binary.gif" width="400" alt="GIF animado de B1x">
 </p>
-### 🧰 Languages and Tools
+🧰 Languages and Tools
 
 <p align="left">
   <img align="left" alt="Kali" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" />
